@@ -1,6 +1,6 @@
 {
   "name": "@lucid-softworks/ulid",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Canonical and monotonic ULID generation and timestamp decoding.",
   "keywords": [
     "javascript",
